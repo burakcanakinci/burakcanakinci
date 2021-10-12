@@ -47,8 +47,6 @@ Some of my projects
 
 [https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html](https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html)
 
-You can reach out
-
 Feel free to contact me
 
 ![https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/burakcanakinci?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHHRtHZ0BRqS0raHumqboMg%3D%3D)
