@@ -13,7 +13,7 @@ As a beginner, I am learning mostly Javascript.
 
 ## Programming Languages
 
-[https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 
 ![https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
