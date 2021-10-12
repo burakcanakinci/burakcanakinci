@@ -9,8 +9,6 @@ I learn fast and can adapt quickly to teamwork . I specialize in JavaScript and 
 
 As a beginner, I am learning mostly Javascript.
 
-<h5>Languages and Tools</h5>
-
 ## Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
