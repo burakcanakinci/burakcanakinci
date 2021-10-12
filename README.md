@@ -19,9 +19,8 @@ As a beginner, I am learning mostly Javascript.
 
 ## IDEs/Editors
 
-![https://badges.aleen42.com/src/visual_studio_code.svg](https://badges.aleen42.com/src/visual_studio_code.svg)
-
-![https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![visual_studio_code](https://badges.aleen42.com/src/visual_studio_code.svg)
+![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## Version Control
 
