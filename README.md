@@ -27,7 +27,7 @@ As a beginner, I am learning mostly Javascript.
 
 ## Version Control
 
-[https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ## Education
 
