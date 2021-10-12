@@ -9,7 +9,7 @@ I learn fast and can adapt quickly to teamwork . I specialize in JavaScript and 
 
 As a beginner, I am learning mostly Javascript.
 
-<h5>⭐Languages and Tools</h5>
+<h5>Languages and Tools</h5>
 
 ## Programming Languages
 
