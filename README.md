@@ -51,4 +51,4 @@ Feel free to contact me
 
 ![https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/burakcanakinci?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHHRtHZ0BRqS0raHumqboMg%3D%3D)
 
-https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayat-al-zaidi-4ab6321b6/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakcanakinci/)
