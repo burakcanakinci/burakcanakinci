@@ -49,6 +49,6 @@ Some of my projects
 
 Feel free to contact me
 
-![https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/burakcanakinci?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHHRtHZ0BRqS0raHumqboMg%3D%3D)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:burakakinci.bca@gmail.com)](mailto:burakakinci.bca@gmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakcanakinci/)
