@@ -40,6 +40,10 @@ Some of my projects
 
 [https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html](https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html)
 
+- Pricing Table
+
+https://raw.githack.com/burakcanakinci/Price-Table-Project/main/index.html
+
 Feel free to contact me
 
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:burakakinci.bca@gmail.com)](mailto:burakakinci.bca@gmail.com)
