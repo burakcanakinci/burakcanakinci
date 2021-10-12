@@ -41,16 +41,16 @@ As a beginner, I am learning mostly Javascript.
 
 [https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
-## 🥳 Some of my projects
+Some of my projects
 
 - Museum of Candy
 
 [https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html](https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html)
 
-## 🤙🏻 You can reach out
+You can reach out
 
 Feel free to contact me
 
 ![https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/burakcanakinci?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHHRtHZ0BRqS0raHumqboMg%3D%3D)
 
-[![Linkedin Badge](https://www.linkedin.com/in/burakcanakinci?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNxHl3gzNRf6vjSiN%2BQDNJg%3D%3D)
+https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayat-al-zaidi-4ab6321b6/)
