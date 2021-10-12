@@ -34,7 +34,7 @@ As a beginner, I am learning mostly Javascript.
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
-Some of my projects
+## Some of my projects
 
 - Museum of Candy
 
