@@ -53,4 +53,4 @@ Feel free to contact me
 
 ![https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/burakcanakinci?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHHRtHZ0BRqS0raHumqboMg%3D%3D)
 
-[https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:burakakinci.bca@gmail.com](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayatalzaidi2000@gmail.com)
+[![Linkedin Badge](https://www.linkedin.com/in/burakcanakinci?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNxHl3gzNRf6vjSiN%2BQDNJg%3D%3D)
