@@ -6,7 +6,7 @@ I’m a Front-end developer who is always been motivated to constantly improve m
 
 ## What programming languages I like
 
-As a beginner, I am learning mostly Javascript.
+Learning mostly Javascript.
 
 ## Programming Languages
 
