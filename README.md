@@ -50,6 +50,9 @@ https://raw.githack.com/burakcanakinci/Aristotle-Tribute-Page/main/index.html
 - Application Form
 https://raw.githack.com/burakcanakinci/Application-Form/main/index.html
 
+- Order Summary Component
+https://raw.githack.com/burakcanakinci/Order-Summary-Component/main/order-summary-component-main/index.html
+
 Feel free to contact me
 
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:burakakinci.bca@gmail.com)](mailto:burakakinci.bca@gmail.com)
