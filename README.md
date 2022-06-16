@@ -1,7 +1,5 @@
 # 🚀 Hello Devs
 
-## Burak 's Github Profile
-
 I’m a Front-end developer who is always been motivated to constantly improve my skills, and improve myself professionally. I learn fast, and can adapt quickly to teamwork. I specialize in JavaScript and creating projects with Vue.
 
 ## What programming languages I like
