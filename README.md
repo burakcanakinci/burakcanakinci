@@ -22,6 +22,8 @@ Learning mostly Javascript.
 
 https://raw.githack.com/burakcanakinci/Order-Summary-Component/main/order-summary-component-main/index.html
 
+- I will drop a new website soon!
+
 Feel free to contact me
 
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:burakakinci.bca@gmail.com)](mailto:burakakinci.bca@gmail.com)
