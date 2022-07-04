@@ -22,9 +22,6 @@ Learning mostly Javascript.
 - Museum of Candy
 [https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html](https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html)
 
-- Pricing Table
-https://raw.githack.com/burakcanakinci/Price-Table-Project/main/index.html
-
 - Order Summary Component
 https://raw.githack.com/burakcanakinci/Order-Summary-Component/main/order-summary-component-main/index.html
 
