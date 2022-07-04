@@ -12,11 +12,6 @@ Learning mostly Javascript.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## IDEs/Editors
-
-![visual_studio_code](https://badges.aleen42.com/src/visual_studio_code.svg)
-![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
 ## Some of my projects
 
 - Museum of Candy
