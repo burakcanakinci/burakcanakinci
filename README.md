@@ -25,9 +25,6 @@ Learning mostly Javascript.
 - Pricing Table
 https://raw.githack.com/burakcanakinci/Price-Table-Project/main/index.html
 
-- Tribute Page
-https://raw.githack.com/burakcanakinci/Aristotle-Tribute-Page/main/index.html
-
 - Order Summary Component
 https://raw.githack.com/burakcanakinci/Order-Summary-Component/main/order-summary-component-main/index.html
 
