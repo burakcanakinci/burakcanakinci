@@ -4,15 +4,15 @@ I’m a Front-end developer who is always motivated to improve my skills and imp
 
 ## Some of my projects
 
-- Museum of Candy
+- <b>Museum of Candy<b>
 
 [https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html](https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html)
 
-- Order Summary Component
+- <b>Order Summary Component<b>
 
 https://raw.githack.com/burakcanakinci/Order-Summary-Component/main/order-summary-component-main/index.html
 
-- I will drop a new website soon!
+- <b>I will publish a new website soon!<b>
 
 Feel free to contact me
 
