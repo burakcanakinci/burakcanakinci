@@ -2,12 +2,6 @@
 
 I’m a Front-end developer who is always motivated to improve my skills and improve myself professionally constantly. I learn fast and can adapt quickly to teamwork. I specialize in JavaScript and creating projects with Vue.
 
-## Programming Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 ## Some of my projects
 
 - Museum of Candy
