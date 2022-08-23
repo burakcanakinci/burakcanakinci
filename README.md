@@ -1,6 +1,6 @@
 # 🚀 Hello Devs
 
-I’m a Front-end developer who is always been motivated to constantly improve my skills, and improve myself professionally. I learn fast, and can adapt quickly to teamwork. I specialize in JavaScript and creating projects with Vue.
+I’m a Front-end developer who is always motivated to improve my skills and improve myself professionally constantly. I learn fast and can adapt quickly to teamwork. I specialize in JavaScript and creating projects with Vue.
 
 ## Programming Languages
 
