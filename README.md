@@ -4,13 +4,16 @@ I’m a Front-end developer who is always motivated to improve my skills and imp
 
 ## Some of my projects
 
-- <b>Museum of Candy<b>
+<b><b>Museum of Candy<b><b>
 
 [https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html](https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html)
 
 - <b>Order Summary Component<b>
 
 https://raw.githack.com/burakcanakinci/Order-Summary-Component/main/order-summary-component-main/index.html
+
+<b><b>Easybank Landing Page<b><b>
+https://raw.githack.com/burakcanakinci/Easybank-landing-page/main/index.html
 
 - <b>I will publish a new website soon!<b>
 
