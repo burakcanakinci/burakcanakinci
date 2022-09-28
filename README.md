@@ -4,14 +4,15 @@ I’m a front-end developer who is always motivated to constantly improve my ski
 
 ## Some of my projects
 
+<b>Easybank Landing Page<b>
+https://raw.githack.com/burakcanakinci/Easybank-landing-page/main/index.html
+
 <b>Museum of Candy<b>
 [https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html](https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html)
 
 <b>Order Summary Component<b>
 https://raw.githack.com/burakcanakinci/Order-Summary-Component/main/order-summary-component-main/index.html
 
-<b>Easybank Landing Page<b>
-https://raw.githack.com/burakcanakinci/Easybank-landing-page/main/index.html
 
 
 
