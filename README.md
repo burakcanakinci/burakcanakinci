@@ -4,6 +4,8 @@ I’m a front-end developer who is always motivated to constantly improve my ski
 
 ## Some of my projects
 
+<b>I will publish an architecture portfolio website soon!<b>
+
 <b>Easybank Landing Page<b>
 https://raw.githack.com/burakcanakinci/Easybank-landing-page/main/index.html
 
@@ -15,8 +17,6 @@ https://raw.githack.com/burakcanakinci/Order-Summary-Component/main/order-summar
 
 
 
-
-<b>I will publish a new website soon!<b>
 
 Feel free to contact me
 
