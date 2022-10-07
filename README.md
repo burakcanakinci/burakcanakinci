@@ -12,9 +12,6 @@ https://raw.githack.com/burakcanakinci/Easybank-landing-page/main/index.html
 <b>Museum of Candy<b>
 [https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html](https://raw.githack.com/burakcanakinci/Muesum-of-Candy-Project/main/sourcecode.html)
 
-<b>Order Summary Component<b>
-https://raw.githack.com/burakcanakinci/Order-Summary-Component/main/order-summary-component-main/index.html
-
 
 
 
