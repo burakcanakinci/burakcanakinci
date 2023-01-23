@@ -8,7 +8,7 @@ Burak is a Junior Frontend Developer with a passion for improving himself.
 
 * 🌍  I'm based in Sofia, BG
 * ✉️  You can contact me at [burakakinci.bca@gmail.com](mailto:burakakinci.bca@gmail.com)
-* 🚀  I'm currently working on an NFT-App using Angular
+* 🚀  I'm currently working on Diva-App using Angular
 * 🧠  I'm learning Angular and Typescript
 
 ### Skills
