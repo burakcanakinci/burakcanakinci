@@ -4,7 +4,7 @@ Hi 👋 My name is Burak Can Akıncı
 Frontend Developer
 ------------------
 
-I am a Computer Science and Engineering graduate, passionate about improving myself and my code base. I have high ability for teamwork and communication.
+I am a Computer Science and Engineering graduate, passionate about improving my skills. I have a high ability to adapt to teamwork and communication.
 
 * 🌍  I'm based in Sofia, BG
 * ✉️  You can contact me at [burakakinci.bca@gmail.com](mailto:burakakinci.bca@gmail.com)
