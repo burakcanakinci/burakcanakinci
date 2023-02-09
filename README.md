@@ -8,7 +8,7 @@ I am a computer science graduate, passionate about improving myself and my code 
 
 * 🌍  I'm based in Sofia, BG
 * ✉️  You can contact me at [burakakinci.bca@gmail.com](mailto:burakakinci.bca@gmail.com)
-* 🚀  I'm currently working on [NFT-App](http://nftmarketplace.animaapp.io/)
+* 🚀  I'm currently working on [Diva-Dashboard](https://diva-dashboard.web.app/)
 * 🧠  I'm learning Angular and Typescript
 
 ### Skills
