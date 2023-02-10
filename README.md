@@ -1,7 +1,7 @@
 Hi 👋 My name is Burak Can Akıncı
 =================================
 
-Frontend Developer
+Junior Frontend Developer
 ------------------
 
 I am a Computer Science and Engineering graduate, who is purpose-driven with an enterprise mindset who is focused, highly adaptable within complex and ever-changing environments, and enthusiastic about driving innovation.
