@@ -9,7 +9,7 @@ I am a Computer Science and Engineering graduate, who is purpose-driven with an 
 * 🌍  I'm based in Sofia, BG
 * ✉️  You can contact me at [burakakinci.bca@gmail.com](mailto:burakakinci.bca@gmail.com)
 * 🚀  I'm currently working on [Diva-Dashboard](https://diva-dashboard.web.app/)
-* 🧠  I'm learning Angular and Typescript
+* 🧠  I'm learning Angular, Typescript, and NgRx.
 
 ### Skills
 
