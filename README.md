@@ -4,7 +4,7 @@ Hi 👋 My name is Burak Can Akıncı
 Junior Frontend Developer
 ------------------
 
-I am a Computer Science and Engineering graduate, who is purpose-driven with an enterprise mindset who is focused, highly adaptable within complex and ever-changing environments, and enthusiastic about driving innovation.
+I am a Computer Science and Engineering graduate who is purpose-driven with an enterprise mindset who is focused, highly adaptable within complex and ever-changing environments, and enthusiastic about driving innovation.
 
 * 🌍  I'm based in Sofia, BG
 * ✉️  You can contact me at [burakakinci.bca@gmail.com](mailto:burakakinci.bca@gmail.com)
