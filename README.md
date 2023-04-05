@@ -8,7 +8,6 @@ As a Computer Science graduate, I deliver solutions and drive growth. I thrive i
 
 * 🌍  I'm based in Sofia, BG
 * ✉️  You can contact me at [burakakinci.bca@gmail.com](mailto:burakakinci.bca@gmail.com)
-* 🧠  I'm learning Angular and NgRx.
 
 ### Skills
 
