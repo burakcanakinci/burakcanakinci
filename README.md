@@ -1,4 +1,4 @@
-Hi 👋 My name is Burak Can Akıncı
+Hi 👋 My name is Burak
 =================================
 
 As a Computer Science graduate, I deliver solutions and drive growth. I thrive in complex environments and adapt to challenges. As a front-end developer and software engineer, I bring expertise to every project and provide exceptional results.
