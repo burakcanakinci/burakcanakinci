@@ -1,7 +1,9 @@
 Hi 👋 My name is Burak
 =================================
 
-As a Bachelor's degree holder in Computer Engineering and dedicated to my craft as a software engineer, I find my most excellent satisfaction in unraveling complex challenges and presenting inventive remedies. My experience in this field demonstrates my strong passion for learning, constantly staying up-to-date with industry trends, and making positive contributions to software development.
+As a Bachelor's degree holder in Computer Engineering and dedicated to my craft as a software engineer, I find my most excellent satisfaction in unraveling complex challenges and presenting inventive remedies. My experience in this field demonstrates my strong passion for learning, constantly staying up-to-date with industry trends, and making positive contributions to the realm of software development.
+
+My proficiency in C, C++, Python, and Javascript in my professional work experience as a computer engineer serves as the cornerstone of my technical repertoire. These languages have been my creative canvas, enabling me to sculpt robust and efficient solutions that stand the test of time. My command over memory management, data structures, and algorithmic intricacies has been finely honed through countless hours of dedicated practice and hands-on projects. Whether crafting high-performance applications or diving into the depths of system-level programming. Feel at liberty to delve into my portfolio and initiate a conversation.
 
 * 🌍  I'm based in Sofia, BG
 * ✉️  You can contact me at [burakakinci.bca@gmail.com](mailto:burakakinci.bca@gmail.com)
