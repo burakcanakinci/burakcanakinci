@@ -1,7 +1,7 @@
 Hi 👋 My name is Burak
 =================================
 
-As a Bachelor's degree holder in Computer Engineering and also dedicated to my craft as a software engineer, I find my greatest satisfaction in unraveling complex challenges and presenting inventive remedies. My experience in this field demonstrates my strong passion for learning, constantly staying up-to-date with industry trends, and making positive contributions to the realm of software development.
+As a Bachelor's degree holder in Computer Engineering and dedicated to my craft as a software engineer, I find my most excellent satisfaction in unraveling complex challenges and presenting inventive remedies. My experience in this field demonstrates my strong passion for learning, constantly staying up-to-date with industry trends, and making positive contributions to software development.
 
 * 🌍  I'm based in Sofia, BG
 * ✉️  You can contact me at [burakakinci.bca@gmail.com](mailto:burakakinci.bca@gmail.com)
