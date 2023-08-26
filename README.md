@@ -32,7 +32,7 @@ I have a proven track record of constantly improving my skills to stay at the fo
 
 Feel free to contact me about any problems you are facing. I will try to help as much as I can 😉
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayat-al-zaidi-4ab6321b6/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayatalzaidi2000@gmail.com)](mailto:ayatalzaidi2000@gmail.com)
-[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayat0110)  
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakcanakinci/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayatalzaidi2000@gmail.com)](mailto:burakakinci.bca@gmail.com)
+[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burakcanakinci)  
 
