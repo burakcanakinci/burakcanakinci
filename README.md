@@ -13,13 +13,9 @@ Welcome to my profile! I'm just a random nerdy human being who feels happy when 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 ## ✨So, what do I do?✨
-As a devoted Software Engineer, I'm on a quest to conjure up websites that dazzle and engage. My toolkit includes spells in JavaScript, React.js, Vue.js, and sprinkles of front-end technologies magic. 🪄✨
+As a devoted Software Engineer, I craft robust solutions in the realm of C and C++. My toolkit includes spells C/C++, Python, JavaScript, and sprinkles of front-end technologies magic. 🪄✨
 I'm all about pushing the boundaries of my craft. You'll find me on a perpetual adventure of leveling up my skills, so I'm always on the cutting edge of web wizardry. 🎩🔮
 I have a proven track record of constantly improving my skills to stay at the forefront of the industry. My professional work experience in JavaScript and also in E-commerce projects allows me to create exceptional projects that deliver a seamless user experience. I excel in teamwork and have a quick learning curve, making me an asset to any project and company.
-
-I am the founder of the thriving community, FrontendSimply, which now connects over 24,000 members. Allows me to share my coding projects, inspire fellow developers, and do mentorship for beginners. This deep involvement not only fuels my passion and discipline for coding but also encourages me to continuously expand my knowledge and skills. Ultimately, this continuous learning cycle greatly enhances my professional performance and growth.
-
-As an influencer and mentor, I share my knowledge and resources on social media to help aspiring developers learn how to code. My goal is to guide and motivate others to reach their full potential in this ever-evolving industry. Feel free to check out my projects and connect with me if you have any questions or are interested in collaborating.
 
 
 # :rabbit: Punch of work I did
@@ -27,19 +23,6 @@ As an influencer and mentor, I share my knowledge and resources on social media 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Real-Time-Messaging-Application)](https://github.com/ayat0110/Real-Time-Messaging-Application) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Interactive-Analytics-Dashboard-System)](https://github.com/ayat0110/Interactive-Analytics-Dashboard-System) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=15-JavaScript-Projects)](https://github.com/ayat0110/15-JavaScript-Projects) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=NFT-and-Digital-Art-Trading-Marketplace)](https://github.com/ayat0110/NFT-and-Digital-Art-Trading-Marketplace)
 
 
-
-
-
-
-## 📃 Latest IG Posts ![instagram](https://badges.aleen42.com/src/instagram.svg) 
-
-<!-- BLOG-POST-LIST:START -->
-- [Decoding javascript: event loop](https://www.instagram.com/p/CuMpOAnNhZt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
-- [What projects should I build as a frontend developer? ](https://www.instagram.com/p/CSCG9qvjIeN/)
-- [Did you ever asked yourself how much JS should I know as a frontend developer ?](https://www.instagram.com/p/CRwEstCjVvf/)
-- [Should a frontend developer know DS&A ?](https://www.instagram.com/p/CRgnp-AjBd5/)
-
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤙🏻 You can reach out
 
