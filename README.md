@@ -1,7 +1,7 @@
 ## ✨ Hi there, I'm Burak Can Akıncı 👋🏼✨
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [My Portfolio ](https://ayat-alzaidi.netlify.app/)
 
-Welcome to my profile! I'm just a random nerdy human being who feels happy when write codes, with a Bachelor's degree in Computer Engineering (yes I spent 4 years at hell but I managed to stay at the top). Here's a glimpse of tech cool stuff I'm working on at the moment:
+Welcome to my profile! I'm just a random nerdy human being who feels happy when writes code, with a Bachelor's degree in Computer Engineering (yes I spent 4 years at hell but I managed to stay at the top). Here's a glimpse of tech cool stuff I'm working on at the moment:
 
 - 🔭 I’m continuing to develop complex real-world scenario projects with C, and C++.
 - 🌱 I’m currently learning C advanced topics and digging deep  into understanding the background concepts for better problem-solving and faster debugging.
