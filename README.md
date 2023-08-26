@@ -16,6 +16,7 @@ Welcome to my profile! I'm just a random nerdy human being who feels happy when 
 As a devoted Software Engineer, I craft robust solutions in the realm of C and C++. My toolkit includes spells in C/C++, Python, JavaScript, and sprinkles of front-end technologies magic.
 I'm all about pushing the boundaries of my craft. You'll find me on a perpetual adventure of leveling up my skills, so I'm always on the cutting edge of software wizardry. 🎩🔮
 I have a proven track record of constantly improving my skills to stay at the forefront of the industry. My professional work experience allows me to create exceptional projects that deliver a seamless user experience. I excel in teamwork and have a quick learning curve, making me an asset to any project and company.
+Outside of coding, I have a deep love for making music and enjoy the science of touch typing.I am also a professional swimmer, demonstrating my commitment and discipline in both the digital and physical realms. 🏊‍♂️💻
 
 
 # :rabbit: Punch of work I did
