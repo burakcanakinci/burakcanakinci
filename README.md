@@ -1,32 +1,51 @@
-Hi 👋 My name is Burak
-=================================
+## ✨ Hi there, I'm Burak Can Akıncı 👋🏼✨
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [My Portfolio ](https://ayat-alzaidi.netlify.app/)
 
-As a Bachelor's degree holder in Computer Engineering and dedicated to my craft as a software engineer, I find my most excellent satisfaction in unraveling complex challenges and presenting inventive remedies. My experience in this field demonstrates my strong passion for learning, constantly staying up-to-date with industry trends, and making positive contributions to the realm of software development.
+Welcome to my profile! I'm just a random nerdy human being who feels happy when write codes, with a Bachelor's degree in Computer Engineering (yes I spent 4 years at hell but I managed to stay at the top). Here's a glimpse of tech cool stuff I'm working on at the moment:
 
-My proficiency in C, C++, Python, and Javascript in my professional work experience as a computer engineer serves as the cornerstone of my technical repertoire. These languages have been my creative canvas, enabling me to sculpt robust and efficient solutions that stand the test of time. My command over memory management, data structures, and algorithmic intricacies has been finely honed through countless hours of dedicated practice and hands-on projects. Whether crafting high-performance applications or diving into the depths of system-level programming. Feel at liberty to delve into my portfolio and initiate a conversation.
+- 🔭 I’m continuing to develop complex real-world scenario projects with C, and C++.
+- 🌱 I’m currently learning C advanced topics and digging deep  into understanding the background concepts for better problem-solving and faster debugging.
+-  I'm currently in the exciting process of job hunting, so don't hesitate to reach out – I'd be thrilled to bring some joy to your team!
+- 💬 Ask me about C/C++, Python, JavaScript, Angular, Vim, Linux/Unix, OOP, NodeJS, Amazon AWS, Qt, CMake, Objective-C, CANBus - MQTT - RS485, STM32 Microcontroller, System Level Programming, Git/GitHub, and a bunch of stuff (don't ask me).
+- ⚡ Fun fact: I cry when I see a fat error in the console and then I usually find the solution when I'm in the shower.
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right">
 
-* 🌍  I'm based in Sofia, BG
-* ✉️  You can contact me at [burakakinci.bca@gmail.com](mailto:burakakinci.bca@gmail.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
-### Skills
+## ✨So, what do I do?✨
+As a devoted Software Engineer, I'm on a quest to conjure up websites that dazzle and engage. My toolkit includes spells in JavaScript, React.js, Vue.js, and sprinkles of front-end technologies magic. 🪄✨
+I'm all about pushing the boundaries of my craft. You'll find me on a perpetual adventure of leveling up my skills, so I'm always on the cutting edge of web wizardry. 🎩🔮
+I have a proven track record of constantly improving my skills to stay at the forefront of the industry. My professional work experience in JavaScript and also in E-commerce projects allows me to create exceptional projects that deliver a seamless user experience. I excel in teamwork and have a quick learning curve, making me an asset to any project and company.
 
+I am the founder of the thriving community, FrontendSimply, which now connects over 24,000 members. Allows me to share my coding projects, inspire fellow developers, and do mentorship for beginners. This deep involvement not only fuels my passion and discipline for coding but also encourages me to continuously expand my knowledge and skills. Ultimately, this continuous learning cycle greatly enhances my professional performance and growth.
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+As an influencer and mentor, I share my knowledge and resources on social media to help aspiring developers learn how to code. My goal is to guide and motivate others to reach their full potential in this ever-evolving industry. Feel free to check out my projects and connect with me if you have any questions or are interested in collaborating.
 
 
-### Socials
+# :rabbit: Punch of work I did
 
-<p align="left"> <a href="https://discord.com/users/BCA#7116" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/burakcanakinci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://gitlab.com/burakcanakinci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/10945090/burak-can-akıncı" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/burakcanakinci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Real-Time-Messaging-Application)](https://github.com/ayat0110/Real-Time-Messaging-Application) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=Interactive-Analytics-Dashboard-System)](https://github.com/ayat0110/Interactive-Analytics-Dashboard-System) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=15-JavaScript-Projects)](https://github.com/ayat0110/15-JavaScript-Projects) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayat0110&repo=NFT-and-Digital-Art-Trading-Marketplace)](https://github.com/ayat0110/NFT-and-Digital-Art-Trading-Marketplace)
+
+
+
+
+
+
+## 📃 Latest IG Posts ![instagram](https://badges.aleen42.com/src/instagram.svg) 
+
+<!-- BLOG-POST-LIST:START -->
+- [Decoding javascript: event loop](https://www.instagram.com/p/CuMpOAnNhZt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+- [What projects should I build as a frontend developer? ](https://www.instagram.com/p/CSCG9qvjIeN/)
+- [Did you ever asked yourself how much JS should I know as a frontend developer ?](https://www.instagram.com/p/CRwEstCjVvf/)
+- [Should a frontend developer know DS&A ?](https://www.instagram.com/p/CRgnp-AjBd5/)
+
+<!-- BLOG-POST-LIST:END -->
+
+## 🤙🏻 You can reach out
+
+Feel free to contact me about any problems you are facing. I will try to help as much as I can 😉
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayat-al-zaidi-4ab6321b6/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayatalzaidi2000@gmail.com)](mailto:ayatalzaidi2000@gmail.com)
+[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayat0110)  
+
