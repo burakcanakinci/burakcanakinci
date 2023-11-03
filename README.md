@@ -6,7 +6,7 @@ Welcome to my profile! I'm just a random nerdy human being who feels happy when 
 - 🔭 I’m continuing to develop complex real-world scenario projects with C, and C++.
 - 🌱 I’m currently learning C advanced topics and digging deep  into understanding the background concepts for better problem-solving and faster debugging.
 -  I'm currently in the exciting process of job hunting, so don't hesitate to reach out – I'd be thrilled to bring some joy to your team!
-- 💬 Ask me about C/C++, Python, JavaScript, Verilog Angular, Vim, Linux/Unix, OOP, Node.js, Amazon AWS, System Level Programming, Git/GitHub, and a bunch of stuff (don't ask me).
+- 💬 Ask me about C/C++, Python, JavaScript, Verilog, Angular, Vim, Linux/Unix, and a bunch of stuff (don't ask me).
 - ⚡ Fun fact: I cry when I see a fat error in the terminal, and then I usually find the solution when I take a walk outside.
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right">
 
