@@ -19,15 +19,6 @@ I have a proven track record of constantly improving my skills to stay at the fo
 Outside of coding, I have a deep love for making music and enjoy the science of touch typing.I am also a professional swimmer, demonstrating my commitment and discipline in both the digital and physical realms. 🏊‍♂️💻
 
 
-# :rabbit: Punch of work I did
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=burakcanakinci&repo=Automotive-Telemetry-System)](https://github.com/burakcanakinci/Automotive-Telemetry-System)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=burakcanakinci&repo=file-dropbox-system-with-javascript-python)](https://github.com/burakcanakinci/file-dropbox-system-with-javascript-python)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=burakcanakinci&repo=Operating-System-Project-From-Scratch)](https://github.com/burakcanakinci/Operating-System-Project-From-Scratch)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=burakcanakinci&repo=Blockchain-Development-in-C-)](https://github.com/burakcanakinci/Blockchain-Development-in-C-)
-
-
-
 
 ## 🤙🏻 You can reach out
 
