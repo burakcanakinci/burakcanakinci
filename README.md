@@ -1,11 +1,10 @@
 ## ✨ Hi there, I'm Burak 👋🏼✨
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [My Portfolio ](https://burakcanakinci.netlify.app/)
 
-Welcome to my profile! I'm just a random human being who feels happy when writes code, with a Bachelor's degree in Computer Science and Engineering. Here's a glimpse of cool tech stuff I'm working on at the moment:
+Welcome to my profile! I'm just a random human being who feels happy when write code, with a Bachelor's degree in Computer Science and Engineering. Here's a glimpse of cool tech stuff I'm working on at the moment:
 
 - 🔭 I’m continuing to develop complex real-world scenario projects with C++.
-- 🌱 I’m currently learning C++ advanced topics and digging deep into understanding the background concepts for better problem-solving and faster debugging.
--  I'm currently in the exciting process of job hunting, so don't hesitate to reach out – I'd be thrilled to bring some joy to your team!
+- I’m currently learning C++ advanced topics and digging deep into understanding the background concepts for better problem-solving and faster debugging.
 - 💬 Ask me about C++, Vim, touch typing, keyboards, music, and a bunch of stuff.
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right">
 
@@ -15,7 +14,7 @@ Welcome to my profile! I'm just a random human being who feels happy when writes
 As a devoted Software Engineer, I craft robust solutions in the realm of C and C++. My toolkit includes spells in C/C++, Vim, and sprinkles of audio technologies magic.
 I'm all about pushing the boundaries of my craft. You'll find me on a perpetual adventure of leveling up my skills, so I'm always on the cutting edge of software wizardry. 🎩🔮
 I have a proven track record of constantly improving my skills to stay at the forefront of the industry. My professional work experience allows me to create exceptional projects that deliver a seamless user experience. I excel in teamwork and have a quick learning curve, making me an asset to any project and company.
-Outside of coding, I have a deep love for making music and enjoy the science of touch typing. I am also a professional swimmer, demonstrating my commitment and discipline in both the digital and physical realms. 🏊‍♂️💻
+Outside of coding, I deeply love making music and enjoy the science of touch typing. I am also a professional swimmer, demonstrating my commitment and discipline in both the digital and physical realms. 🏊‍♂️💻
 
 
 
