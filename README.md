@@ -1,5 +1,5 @@
 ## Hello there, I'm Burak
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [My Portfolio ](https://burakcanakinci.netlify.app/)
+[My Portfolio](https://burakcanakinci.netlify.app/)
 
 Welcome to my profile! I'm just a random human being who feels happy when write code, with a Bachelor's degree in Computer Science and Engineering. Here's a glimpse of cool tech stuff I'm working on at the moment:
 
