@@ -1,7 +1,7 @@
 ## Hello there, I'm Burak
 [My Portfolio](https://burakcanakinci.netlify.app/)
 
-Welcome to my profile! I'm just a random human being who feels happy when write code, with a Bachelor's degree in Computer Science and Engineering. Here's a glimpse of cool tech stuff I'm working on at the moment:
+Welcome to my profile! I'm just a random human being who feels happy when write code. Here's a glimpse of cool tech stuff I'm working on at the moment:
 
 - 🔭 I’m continuing to develop complex real-world scenario projects with C++.
 - I’m currently learning C++ advanced topics and JUCE Framework.
@@ -11,7 +11,7 @@ Welcome to my profile! I'm just a random human being who feels happy when write 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=HTML,CSS,SCSS)
 
 ### So, what do I do?
-As a devoted Software Engineer, I craft robust solutions in the realm of C and C++. My toolkit includes spells in C/C++, Vim, and sprinkles of audio technologies magic.
+As a devoted Software Engineer, I craft solutions in the realm of C and C++. My toolkit includes spells in C/C++, Vim, and sprinkles of audio technologies magic.
 I'm all about pushing the boundaries of my craft. You'll find me on a perpetual adventure of leveling up my skills, so I'm always on the cutting edge of software wizardry.
 I have a proven track record of constantly improving my skills to stay at the forefront of the industry. My professional work experience allows me to create exceptional projects that deliver a seamless user experience. I excel in teamwork and have a quick learning curve, making me an asset to any project and company.
 Outside of coding, I deeply love making music and enjoy the science of touch typing. I am also a professional swimmer, and underwater hockey player demonstrating my commitment and discipline in both the digital and physical realms.
