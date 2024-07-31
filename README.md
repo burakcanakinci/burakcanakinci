@@ -1,10 +1,10 @@
 ## Hello there, I'm Burak
 [My Portfolio](https://burakcanakinci.netlify.app/)
 
-Welcome to my profile! I'm just a random human being who feels happy when write code. Here's a glimpse of cool tech stuff I'm working on at the moment:
+Welcome to my profile! I'm just a random human being who feels happy when writing code. Here's a glimpse of cool tech stuff I'm working on at the moment:
 
 - 🔭 I’m continuing to develop complex real-world scenario projects with C++.
-- I’m currently learning C++ advanced topics and JUCE Framework.
+- I’m currently learning C++ advanced topics and Qt Framework.
 - 💬 Ask me about C++, Vim, touch typing, keyboards, music, and a bunch of stuff.
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right">
 
