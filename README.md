@@ -16,9 +16,11 @@ Welcome to my profile! I'm just a random human being who feels happy when writin
 
 
 
-## You can reach out
 
-Feel free to contact me about any problems you are facing. I will try to help as much as I can.
+
+
+
+## You can reach out
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakcanakinci/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayatalzaidi2000@gmail.com)](mailto:burakakinci.bca@gmail.com)
