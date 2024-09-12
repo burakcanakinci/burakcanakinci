@@ -7,7 +7,7 @@ I'm just a random human being who feels happy when writing code. Here's a glimps
 - I’m currently gaining more knowledge about C++ advanced topics and the Qt Framework.
 - Ask me about C++, Vim, touch typing, keyboards, music production, audio engineering and a bunch of other things.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=HTML,CSS,SCSS,Makefile)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=HTML,CSS,SCSS,Makefile,Vue)
 
 
 
