@@ -1,11 +1,11 @@
 ## Hello there, I'm Burak
 [My Portfolio](https://burakcanakinci.netlify.app/)
 
-Welcome to my profile! I'm just a random human being who feels happy when writing code. Here's a glimpse of the tech stuff I'm working on at the moment:
+I'm just a random human being who feels happy when writing code. Here's a glimpse of the tech stuff I'm working on at the moment:
 
-- 🔭 I’m continuing to develop complex, real-world scenario projects with C++.
+- I’m continuing to develop complex, real-world scenario projects with C++.
 - I’m currently gaining more knowledge about C++ advanced topics and the Qt Framework.
-- 💬 Ask me about C++, Vim, touch typing, keyboards, music production, audio engineering and a bunch of other things!
+- Ask me about C++, Vim, touch typing, keyboards, music production, audio engineering and a bunch of other things.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=HTML,CSS,SCSS)
 
