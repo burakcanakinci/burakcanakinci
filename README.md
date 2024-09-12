@@ -10,13 +10,6 @@ Welcome to my profile! I'm just a random human being who feels happy when writin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=HTML,CSS,SCSS)
 
-### So, what do I do?
-As a devoted Software Engineer, I craft solutions in the realm of C++. My toolkit includes expertise in C++, Vim, Qt, and a touch of audio technology magic.
-I'm all about pushing the boundaries of my craft. You'll find me on a perpetual adventure, constantly leveling up my skills to stay on the cutting edge of software wizardry.
-My professional experience allows me to create exceptional projects that deliver a seamless user experience. I excel in teamwork and have a quick learning curve, making me an asset to any project or company.
-Outside of coding, I have a deep love for making music and enjoy the science of touch typing. I am also a professional swimmer and underwater hockey player, demonstrating my commitment and discipline in both the digital and physical realms.
-
-
 
 ## You can reach out
 
