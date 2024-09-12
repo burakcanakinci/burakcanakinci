@@ -6,7 +6,6 @@ Welcome to my profile! I'm just a random human being who feels happy when writin
 - 🔭 I’m continuing to develop complex, real-world scenario projects with C++.
 - I’m currently gaining more knowledge about C++ advanced topics and the Qt Framework.
 - 💬 Ask me about C++, Vim, touch typing, keyboards, music production, audio engineering and a bunch of other things!
-//<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" //width="500" align="right">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=HTML,CSS,SCSS)
 
