@@ -3,8 +3,12 @@
 
 I'm just a random human being who feels happy when writing code. Here's a glimpse of the tech stuff I'm working on at the moment:
 
-- I’m continuing to develop complex, real-world scenario projects with C++.
-- I’m currently gaining more knowledge about C++ advanced topics and the Qt Framework.
+- Main Quest:
+  - I’m continuing to develop firmware for the new Datecs BlueCash-5000 with its ARM chip.
+  - I’m deepening my knowledge of advanced C topics and ARM Cortex-M architecture.
+- Side Quest:
+  - I’m continuing to work on complex, real-world projects using C++.
+  - I’m expanding my knowledge of advanced C++ topics and the Qt framework.
 - Ask me about C++, Neovim, touch typing, keyboards, music production, audio engineering and a bunch of other things.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=HTML,CSS,SCSS,Makefile,Vue)
