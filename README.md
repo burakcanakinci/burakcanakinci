@@ -3,13 +3,13 @@
 
 I'm just a random human being who feels happy when making things work. Here's a glimpse of the tech stuff I'm working on:
 
-- Main Quest:
+- ###Main Quest:
   - I’m continuing to develop firmware for the new Datecs BlueCash-5000 with its ARM chip.
   - I’m deepening my knowledge of advanced C topics and ARM Cortex-M architecture.
-- Side Quest:
+- ###Side Quest:
   - I’m continuing to work on complex, real-world projects using C++.
   - I’m expanding my knowledge of advanced C++ topics and networking protocols.
-- Ask me about:<br>
+- ###Ask me about:<br>
 C++, Neovim, touch typing, keyboards, music production, audio engineering and a bunch of other things.
 
 [My typing stats](https://monkeytype.com/profile/xOWSLA)
