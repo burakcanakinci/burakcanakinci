@@ -8,7 +8,7 @@ I'm just a random human being who feels happy when writing code. Here's a glimps
   - I’m deepening my knowledge of advanced C topics and ARM Cortex-M architecture.
 - Side Quest:
   - I’m continuing to work on complex, real-world projects using C++.
-  - I’m expanding my knowledge of advanced C++ topics and the Qt framework.
+  - I’m expanding my knowledge of advanced C++ topics and networking protocols.
 - Ask me about:<br>
 C++, Neovim, touch typing, keyboards, music production, audio engineering and a bunch of other things.
 
