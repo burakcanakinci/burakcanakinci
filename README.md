@@ -1,7 +1,7 @@
 ## Hello there, I'm Burak
 [My Portfolio](https://burakcanakinci.netlify.app/)
 
-I'm just a random human being who feels happy when writing code. Here's a glimpse of the tech stuff I'm working on at the moment:
+I'm just a random human being who feels happy when writing code. Here's a glimpse of the tech stuff I'm working on:
 
 - Main Quest:
   - I’m continuing to develop firmware for the new Datecs BlueCash-5000 with its ARM chip.
