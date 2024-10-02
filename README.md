@@ -1,5 +1,5 @@
 ## Hello there, I'm Burak
-[My Portfolio](https://burakcanakinci.netlify.app/)
+[My Portfolio](https://burakcanakinci.netlify.app/)        
 [My monkeytype stats](https://monkeytype.com/profile/xOWSLA)
 
 I'm just a random human being who feels happy when writing code. Here's a glimpse of the tech stuff I'm working on:
