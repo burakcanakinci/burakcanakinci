@@ -9,7 +9,8 @@ I'm just a random human being who feels happy when writing code. Here's a glimps
 - Side Quest:
   - I’m continuing to work on complex, real-world projects using C++.
   - I’m expanding my knowledge of advanced C++ topics and the Qt framework.
-- Ask me about C++, Neovim, touch typing, keyboards, music production, audio engineering and a bunch of other things.
+- Ask me about:
+C++, Neovim, touch typing, keyboards, music production, audio engineering and a bunch of other things.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=HTML,CSS,SCSS,Makefile,Vue)
 
