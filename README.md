@@ -1,6 +1,5 @@
 ## Hello there, I'm Burak
-[My Portfolio](https://burakcanakinci.netlify.app/)        
-[My monkeytype stats](https://monkeytype.com/profile/xOWSLA)
+[My Portfolio](https://burakcanakinci.netlify.app/)
 
 I'm just a random human being who feels happy when writing code. Here's a glimpse of the tech stuff I'm working on:
 
@@ -12,6 +11,9 @@ I'm just a random human being who feels happy when writing code. Here's a glimps
   - I’m expanding my knowledge of advanced C++ topics and the Qt framework.
 - Ask me about:<br>
 C++, Neovim, touch typing, keyboards, music production, audio engineering and a bunch of other things.
+
+[My typing stats](https://monkeytype.com/profile/xOWSLA)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=HTML,CSS,SCSS,Makefile,Vue)
 
