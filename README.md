@@ -5,7 +5,7 @@ I'm just a random human being who feels happy when making things work.<br>
 Here's a glimpse of the tech stuff I'm working on:
 
 - ### Main Quest:
-  - I’m continuing to develop firmware for the new Datecs BlueCash-5000 with its ARM chip.
+  - I’m continuing to develop firmware for the new Datecs [BlueCash-5000](https://www.datecs.bg/en/products/425) with its ARM chip.
   - I’m deepening my knowledge of advanced C topics and ARM Cortex-M architecture.
 - ### Side Quest:
   - I’m continuing to work on complex, real-world projects using C++.
