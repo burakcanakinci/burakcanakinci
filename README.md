@@ -13,7 +13,7 @@ Here's a glimpse of the tech stuff I'm working on:
 - ### Ask me about:<br>
 C++, Neovim, touch typing, keyboards, music production, audio engineering and a bunch of other things.
 
-[My typing stats](https://monkeytype.com/profile/xOWSLA)
+[My typing stats](https://monkeytype.com/profile/oxbw)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=HTML,CSS,SCSS,Makefile,Vue)
