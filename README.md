@@ -16,7 +16,7 @@ C++, Neovim, touch typing, keyboards, music production, audio engineering and a 
 [My typing stats](https://monkeytype.com/profile/oxbw)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=HTML,CSS,SCSS,Makefile,Vue)
+// ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=burakcanakinci&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=HTML,CSS,SCSS,Makefile,Vue)
 
 
 
