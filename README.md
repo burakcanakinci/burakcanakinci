@@ -11,7 +11,7 @@ Here's a glimpse of the tech stuff I'm working on:
   - I’m continuing to work on complex, real-world projects using C++.
   - I’m expanding my knowledge of advanced C++ topics and networking protocols.
 - ### Ask me about:<br>
-C++, Neovim, touch typing, keyboards, music production, audio engineering and a bunch of other things.
+Neovim, touch typing, keyboards, music production, audio engineering and a bunch of other things.
 
 [My typing stats](https://monkeytype.com/profile/oxbw)
 
